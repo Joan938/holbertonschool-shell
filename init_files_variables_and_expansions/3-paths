@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod +x count_path_dirs.sh
