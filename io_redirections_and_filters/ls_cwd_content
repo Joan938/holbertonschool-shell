@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 joan joan 4096 oct 17 09:25 .
+drwxrwxr-x 6 joan joan 4096 oct 16 11:23 ..
+-rwxrw-r-- 1 joan joan   32 oct 16 11:27 0-hello_world
+-rwxrw-r-- 1 joan joan   28 oct 16 11:38 1-confused_smiley
+-rwxrw-r-- 1 joan joan   28 oct 16 11:41 2-hellofile
+-rwxrw-r-- 1 joan joan   39 oct 16 11:50 3-twofiles
+-rwxrw-r-- 1 joan joan   35 oct 16 11:54 4-lastlines
+-rwxrw-r-- 1 joan joan   35 oct 16 11:57 5-firstlines
+-rwxrw-r-- 1 joan joan   40 oct 16 12:03 6-third_line
+-rwxrw-r-- 1 joan joan   99 oct 17 09:19 7-file
+-rwxrw-r-- 1 joan joan   36 oct 17 09:25 8-cwd_state
+-rw-rw-r-- 1 joan joan   12 oct 17 09:19 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 joan joan    0 oct 17 09:25 ls_cwd_content
+-rw-rw-r-- 1 joan joan   33 oct 16 11:26 README.md
