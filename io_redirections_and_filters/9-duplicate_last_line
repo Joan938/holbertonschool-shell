@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x duplicate_iacta.sh
+tail -n i iacta >> iacta
